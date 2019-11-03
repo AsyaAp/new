@@ -16,7 +16,7 @@ namespace ConsoleApp1
             sbyte sbt = -128;
             short srt = -32768;
             ushort usrt = 65535;
-            int it = -2147483648;
+            int it = -2147483648; //fasfasfa
             uint uit = 4294967295;
             long lng = -9223372036854775808;
             ulong ulng = 18446744073709551615;
